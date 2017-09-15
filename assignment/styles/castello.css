@@ -5,7 +5,7 @@
 
 body {
     background: #868DCC; /* change */
-    color: #000; /* change */
+    color: #fff; /* change */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
 
@@ -30,6 +30,7 @@ footer {
 
 figure {
     background: #44357F;
+    color: #fff;
 }
 
 
@@ -40,14 +41,14 @@ a:link {
     color: #B22A6D;
 }
 a:visited {
-    color: #FFFDC8;
+    color: #05A5A3;
 }
 a:focus {
     color: #FF7C7D;
 }
 a:hover {
-    color: #B22335;
+    color: #F44283;
 }
 a:active {
-    color: #7F0E0F;
+    color: #028E38;
 }
